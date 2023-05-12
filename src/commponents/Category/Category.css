@@ -1,0 +1,33 @@
+.title{
+    font-size: 48px;
+    text-align: center;
+    font-weight: 800;
+}
+.sub-title{
+    font-size: 16px;
+    font-weight: bold;
+    color: #757575;
+    text-align: center;
+}
+.list-category{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+.list-category h4{
+    font-size: 20px;
+    color: #474747;
+}
+.list-category p{
+    font-size: 16px;
+}
+.list-category img{
+    padding: 15px;
+    background: rgba(137, 43, 226, 0.06);
+    border-radius: 10px;
+}
+.singale-category{
+    padding: 20px;
+    background: rgba(157, 130, 238, 0.09);
+    border-radius: 10px;
+}
